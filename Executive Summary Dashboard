@@ -1,0 +1,34 @@
+# 📊 Executive Summary Dashboard
+
+**Objective:**  
+Provide senior leaders (BOD/COO/CRO) with a one-stop dashboard to track business performance across Sales, Retention, Risk, and Collections.
+
+---
+
+**Dataset:**  
+Simulated monthly KPIs (Sales, Retention, Risk, Collections).
+
+---
+
+**Tools:**  
+Power BI (main), SQL, Excel.
+
+---
+
+**Key Features:**  
+- Consolidated KPIs for leadership view.  
+- Trend analysis for Sales, Churn, and Delinquency.  
+- Collection efficiency tracking with visual indicators.  
+- Migrated from Metabase to Power BI for higher interactivity and usability.  
+
+---
+
+**Preview:**  
+![Executive Summary Dashboard](./dashboards/executive_summary.png)
+
+---
+
+**Key Insights (Sample):**  
+- Sales increased +15% QoQ, but churn also rose from 4% → 6%.  
+- Delinquency decreased from 8% → 6% after improved collections.  
+- Collection rate reached 92%, exceeding the 90% target.  
